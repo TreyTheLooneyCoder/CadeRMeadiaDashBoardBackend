@@ -1,0 +1,44 @@
+{
+    "media": {
+        "facebook": [
+            {
+                "user": "@Hakeem Miller",
+                "friends": 567,
+                "today": 13,
+                "views": 118, 
+                "likes": 98
+            }
+        ],
+
+        "twitter": [
+            {
+                "user": "@HakeemStillCoding",
+                "followers": 1792,
+                "today": 97,
+                "views": 153, 
+                "likes": 254
+            }
+        ],
+
+        "instagram": [
+            {
+                "user": "@HakeemWalkeemDown_AndTeachHimCode",
+                "followers": 31054,
+                "today": 3042,
+                "views": "17K", 
+                "likes": 9857
+            }
+        ],
+
+        "youtube" : [
+            {
+                "user": "@Coding With Hakeem",
+                "subscribers": 5673164,
+                "today": 32847,
+                "views": 11823577, 
+                "likes": "2.02M"
+            }
+        ]
+
+    }
+}
